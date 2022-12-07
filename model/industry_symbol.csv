@@ -1,131 +1,67 @@
-,GICS Sub-Industry,Symbol
-0,Semiconductors,ADI
-1,Industrial Machinery,CMI
-2,Packaged Foods & Meats,HRL
-3,Application Software,ANSS
-4,Application Software,ADSK
-5,Oil & Gas Exploration & Production,EQT
-6,Aerospace & Defense,HWM
-7,Semiconductors,NVDA
-8,Packaged Foods & Meats,K
-9,Regional Banks,MTB
-10,Multi-Utilities,DTE
-11,Electric Utilities,PEG
-12,Packaged Foods & Meats,HSY
-13,Application Software,ORCL
-14,Application Software,CRM
-15,Packaged Foods & Meats,MDLZ
-16,Aerospace & Defense,HII
-17,Industrial Machinery,SNA
-18,Semiconductors,AVGO
-19,Data Processing & Outsourced Services,PAYX
-20,Multi-Utilities,ES
-21,Aerospace & Defense,NOC
-22,Industrial Machinery,SWK
-23,Application Software,PTC
-24,Industrial Machinery,PH
-25,Regional Banks,TFC
-26,Electric Utilities,DUK
-27,Electric Utilities,WEC
-28,Aerospace & Defense,LHX
-29,Regional Banks,PNC
-30,Regional Banks,SBNY
-31,Multi-Utilities,AEE
-32,Multi-Utilities,NEE
-33,Application Software,ADBE
-34,Packaged Foods & Meats,MKC
-35,Electric Utilities,SO
-36,Electric Utilities,FE
-37,Semiconductors,INTC
-38,Semiconductors,NXPI
-39,Health Care Equipment,RMD
-40,Electric Utilities,D
-41,Multi-Utilities,SRE
-42,Electric Utilities,ED
-43,Multi-Utilities,EXC
-44,Application Software,INTU
-45,Aerospace & Defense,GD
-46,Oil & Gas Exploration & Production,CTRA
-47,Data Processing & Outsourced Services,FIS
-48,Electric Utilities,EIX
-49,Oil & Gas Exploration & Production,EOG
-50,Multi-Utilities,NI
-51,Packaged Foods & Meats,TSN
-52,Health Care Equipment,ABT
-53,Industrial Machinery,ITW
-54,Multi-Utilities,PNW
-55,Industrial Machinery,XYL
-56,Oil & Gas Exploration & Production,OXY
-57,Health Care Equipment,STE
-58,Health Care Equipment,SYK
-59,Aerospace & Defense,BA
-60,Health Care Equipment,DHR
-61,Health Care Equipment,BAX
-62,Aerospace & Defense,LMT
-63,Packaged Foods & Meats,CPB
-64,Aerospace & Defense,TXT
-65,Electric Utilities,ETR
-66,Semiconductors,ON
-67,Packaged Foods & Meats,CAG
-68,Oil & Gas Exploration & Production,COP
-69,Health Care Equipment,HOLX
-70,Semiconductors,MPWR
-71,Industrial Machinery,DOV
-72,Health Care Equipment,A
-73,Packaged Foods & Meats,SJM
-74,Data Processing & Outsourced Services,GPN
-75,Oil & Gas Exploration & Production,APA
-76,Data Processing & Outsourced Services,BR
-77,Multi-Utilities,XEL
-78,Application Software,GEN
-79,Aerospace & Defense,TDG
-80,Industrial Machinery,PNR
-81,Data Processing & Outsourced Services,MA
-82,Multi-Utilities,CNP
-83,Oil & Gas Exploration & Production,MRO
-84,Health Care Equipment,BDX
-85,Semiconductors,QCOM
-86,Electric Utilities,LNT
-87,Oil & Gas Exploration & Production,PXD
-88,Regional Banks,FRC
-89,Oil & Gas Exploration & Production,FANG
-90,Application Software,CDNS
-91,Electric Utilities,AEP
-92,Health Care Equipment,BSX
-93,Application Software,SNPS
-94,Oil & Gas Exploration & Production,DVN
-95,Data Processing & Outsourced Services,FLT
-96,Health Care Equipment,IDXX
-97,Regional Banks,FITB
-98,Semiconductors,AMD
-99,Regional Banks,ZION
-100,Industrial Machinery,NDSN
-101,Health Care Equipment,PKI
-102,Electric Utilities,EVRG
-103,Application Software,TYL
-104,Health Care Equipment,DXCM
-105,Regional Banks,HBAN
-106,Data Processing & Outsourced Services,JKHY
-107,Regional Banks,KEY
-108,Semiconductors,TXN
-109,Multi-Utilities,CMS
-110,Data Processing & Outsourced Services,ADP
-111,Regional Banks,RF
-112,Data Processing & Outsourced Services,FISV
-113,Data Processing & Outsourced Services,V
-114,Health Care Equipment,EW
-115,Industrial Machinery,GWW
-116,Regional Banks,SIVB
-117,Health Care Equipment,ZBH
-118,Electric Utilities,PPL
-119,Semiconductors,SWKS
-120,Health Care Equipment,ABMD
-121,Aerospace & Defense,RTX
-122,Health Care Equipment,TFX
-123,Semiconductors,MCHP
-124,Health Care Equipment,ISRG
-125,Industrial Machinery,IEX
-126,Packaged Foods & Meats,GIS
-127,Multi-Utilities,PCG
-128,Semiconductors,MU
-129,Health Care Equipment,MDT
+,GICS Sector,Symbol
+0,Information Technology,TRMB
+1,Information Technology,GEN
+2,Information Technology,BR
+3,Information Technology,FTNT
+4,Information Technology,FLT
+5,Information Technology,ACN
+6,Information Technology,CRM
+7,Information Technology,INTC
+8,Information Technology,ANSS
+9,Information Technology,DXC
+10,Information Technology,AKAM
+11,Information Technology,PAYX
+12,Information Technology,INTU
+13,Information Technology,ADI
+14,Information Technology,FFIV
+15,Information Technology,CTSH
+16,Information Technology,ADBE
+17,Information Technology,MSFT
+18,Information Technology,JKHY
+19,Information Technology,STX
+20,Information Technology,ADSK
+21,Information Technology,APH
+22,Information Technology,AAPL
+23,Information Technology,WDC
+24,Information Technology,SWKS
+25,Information Technology,AMD
+26,Information Technology,ADP
+27,Information Technology,QCOM
+28,Information Technology,AVGO
+29,Information Technology,AMAT
+30,Information Technology,SNPS
+31,Information Technology,ENPH
+32,Information Technology,TXN
+33,Information Technology,NOW
+34,Information Technology,V
+35,Information Technology,KLAC
+36,Information Technology,FISV
+37,Information Technology,VRSN
+38,Information Technology,ON
+39,Information Technology,MU
+40,Information Technology,TER
+41,Information Technology,ORCL
+42,Information Technology,HPQ
+43,Information Technology,FIS
+44,Information Technology,EPAM
+45,Information Technology,PTC
+46,Information Technology,MA
+47,Information Technology,LRCX
+48,Information Technology,TYL
+49,Information Technology,ZBRA
+50,Information Technology,IT
+51,Information Technology,CSCO
+52,Information Technology,NVDA
+53,Information Technology,TEL
+54,Information Technology,JNPR
+55,Information Technology,TDY
+56,Information Technology,NTAP
+57,Information Technology,IBM
+58,Information Technology,MSI
+59,Information Technology,CDNS
+60,Information Technology,MCHP
+61,Information Technology,MPWR
+62,Information Technology,GPN
+63,Information Technology,NXPI
+64,Information Technology,ROP
+65,Information Technology,GLW
