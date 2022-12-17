@@ -1,1 +1,8 @@
-Jang, Yunseok; Son, Sunny; Huo, Riley, Analysis of AR-Net and Additive Events on NeuralProphet through Stock Price Forecasting, (2022), GitHub repository, https://github.com/sunnydigital/pTSA_F22
+@software{NP_Project,
+  author = {Son, Sunny and Jang, Yunseok and Huo, Riley},
+  month = {12},
+  title = {{Analysis of AR-Net and Additive Events on NeuralProphet through Stock Price Forecasting}},
+  url = {https://github.com/sunnydigital/pTSA_F22},
+  version = {1.0.0},
+  year = {2022}
+}
